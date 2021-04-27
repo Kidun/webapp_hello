@@ -1,0 +1,8 @@
+[package]
+name = "webapp_hello"
+version = "0.1.3"
+authors = ["kidun"]
+edition = "2018"
+
+[dependencies]
+rocket = { path = "../Rocket/core/lib" }
